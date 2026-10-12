@@ -1,0 +1,9 @@
+The integration uses the same sample–channel validity mask for the system and reference within 10° ≤ θ ≤ 70°, with cos(θ) dΩ weights. No normalization to a full hemisphere is applied. The reference azimuthal distribution is reconstructed from principal-plane scans under the normal-incidence rotational-symmetry approximation for diffuse samples.
+
+The signed relative discrepancy in each row is 100 × (QCD, sys / QCD, ref − 1). Positive values indicate a larger system integral. The source permits this ratio only when |QCD, ref| > 10⁻¹²; all 64 rows meet that criterion. Signed system integrals, including negative low-signal estimates, are retained.
+
+The signal-weighted absolute discrepancy for any group is E = 100 × Σ|QCD, sys − QCD, ref| / Σ|QCD, ref|. It is not the arithmetic mean of the signed row percentages. All cases, including the low-signal flags, enter these sums. BRDF: 2.81% (32 cases); BTDF: 6.74% (32 cases); aggregate: 5.00% (64 cases).
+
+“Yes” marks the six prior low-signal cases. Cells below the earlier 20.5 DN criterion account for at least 50% of the original-domain cos(θ) dΩ weight. All flagged cases enter the aggregate calculations.
+
+The system common-domain integrals are reported after denoising and other data processing (NEW_D1 processed data), alongside the reference integrals. Full-precision values, low-signal flags and source hashes accompany the table in CSV and README files.
