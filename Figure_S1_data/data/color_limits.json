@@ -1,0 +1,30 @@
+{
+  "red": {
+    "bsdf_min": 0.009852821109816431,
+    "bsdf_max": 0.037645971849560735,
+    "difference_min": -0.002605519811652086,
+    "difference_max": 0.002605519811652086,
+    "difference_rule": "99th percentile of absolute difference on final NEW_D1 comparison_mask, symmetric"
+  },
+  "green": {
+    "bsdf_min": 0.03171513024717569,
+    "bsdf_max": 0.06680489592254146,
+    "difference_min": -0.005616127749374778,
+    "difference_max": 0.005616127749374778,
+    "difference_rule": "99th percentile of absolute difference on final NEW_D1 comparison_mask, symmetric"
+  },
+  "yellow": {
+    "bsdf_min": 0.21264776110649108,
+    "bsdf_max": 0.28184956282377244,
+    "difference_min": -0.005769315830891272,
+    "difference_max": 0.005769315830891272,
+    "difference_rule": "99th percentile of absolute difference on final NEW_D1 comparison_mask, symmetric"
+  },
+  "blue": {
+    "bsdf_min": 0.06520793095231056,
+    "bsdf_max": 0.09998414650559426,
+    "difference_min": -0.006425585255989677,
+    "difference_max": 0.006425585255989677,
+    "difference_rule": "99th percentile of absolute difference on final NEW_D1 comparison_mask, symmetric"
+  }
+}

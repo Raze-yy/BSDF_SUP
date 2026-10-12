@@ -1,0 +1,21 @@
+{
+  "series": "NEW_D1",
+  "source_run": "H:\\BRDF2\\\u8bba\u6587\\\u56de\u590d\\Reviewer4_integral_validation\\batch_integral_recompute\\runs\\zero_incidence_v1_2",
+  "fields": {
+    "reconstruction": "Bprocessed",
+    "reference": "G",
+    "difference": "Bprocessed-G",
+    "comparison_mask": "D1",
+    "source_display_mask": "display_mask",
+    "original_Dp": "D0",
+    "D1": "D1",
+    "filled": "filled_mask",
+    "replaced": "replaced_mask",
+    "protected_internal": "protected_internal",
+    "protected_external": "protected_external",
+    "theta_deg": "theta_deg",
+    "phi_deg": "phi_deg"
+  },
+  "axes_and_saved_dtypes_preserved": true,
+  "new_fitting_or_interpolation": false
+}

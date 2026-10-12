@@ -1,0 +1,3 @@
+# Supplementary Fig. S1
+
+Supplementary Fig. S1. Normal-incidence BRDF distributions for the red, green, yellow and blue tiles at 550 nm. System BRDF is shown after denoising and other data processing (NEW_D1 processed data). Rows correspond to samples; columns show system BRDF, the rotationally reconstructed reference and the signed system-minus-reference difference. BRDF and difference values are in sr⁻¹. Paired system and reference maps share a color scale within each row; difference scales are symmetric about zero. Gray cells are outside the common display comparison mask. The reference azimuthal distribution is reconstructed from principal-plane scans under the normal-incidence azimuthal-symmetry approximation.

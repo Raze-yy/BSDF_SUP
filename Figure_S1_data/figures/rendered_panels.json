@@ -1,0 +1,326 @@
+[
+  {
+    "sample": "red",
+    "panel": "System\nBRDF",
+    "shape": [
+      401,
+      1796
+    ],
+    "comparison_cells": 459834,
+    "vmin": 0.009852821109816431,
+    "vmax": 0.037645971849560735,
+    "xlim": [
+      0,
+      359
+    ],
+    "ylim": [
+      70,
+      10
+    ],
+    "extent": [
+      -0.1,
+      359.1,
+      80.1,
+      -0.1
+    ],
+    "interpolation": "nearest",
+    "origin": "upper"
+  },
+  {
+    "sample": "red",
+    "panel": "Reference\nBRDF",
+    "shape": [
+      401,
+      1796
+    ],
+    "comparison_cells": 459834,
+    "vmin": 0.009852821109816431,
+    "vmax": 0.037645971849560735,
+    "xlim": [
+      0,
+      359
+    ],
+    "ylim": [
+      70,
+      10
+    ],
+    "extent": [
+      -0.1,
+      359.1,
+      80.1,
+      -0.1
+    ],
+    "interpolation": "nearest",
+    "origin": "upper"
+  },
+  {
+    "sample": "red",
+    "panel": "System\n\u2212 reference",
+    "shape": [
+      401,
+      1796
+    ],
+    "comparison_cells": 459834,
+    "vmin": -0.002605519811652086,
+    "vmax": 0.002605519811652086,
+    "xlim": [
+      0,
+      359
+    ],
+    "ylim": [
+      70,
+      10
+    ],
+    "extent": [
+      -0.1,
+      359.1,
+      80.1,
+      -0.1
+    ],
+    "interpolation": "nearest",
+    "origin": "upper"
+  },
+  {
+    "sample": "green",
+    "panel": "System\nBRDF",
+    "shape": [
+      401,
+      1796
+    ],
+    "comparison_cells": 459834,
+    "vmin": 0.03171513024717569,
+    "vmax": 0.06680489592254146,
+    "xlim": [
+      0,
+      359
+    ],
+    "ylim": [
+      70,
+      10
+    ],
+    "extent": [
+      -0.1,
+      359.1,
+      80.1,
+      -0.1
+    ],
+    "interpolation": "nearest",
+    "origin": "upper"
+  },
+  {
+    "sample": "green",
+    "panel": "Reference\nBRDF",
+    "shape": [
+      401,
+      1796
+    ],
+    "comparison_cells": 459834,
+    "vmin": 0.03171513024717569,
+    "vmax": 0.06680489592254146,
+    "xlim": [
+      0,
+      359
+    ],
+    "ylim": [
+      70,
+      10
+    ],
+    "extent": [
+      -0.1,
+      359.1,
+      80.1,
+      -0.1
+    ],
+    "interpolation": "nearest",
+    "origin": "upper"
+  },
+  {
+    "sample": "green",
+    "panel": "System\n\u2212 reference",
+    "shape": [
+      401,
+      1796
+    ],
+    "comparison_cells": 459834,
+    "vmin": -0.005616127749374778,
+    "vmax": 0.005616127749374778,
+    "xlim": [
+      0,
+      359
+    ],
+    "ylim": [
+      70,
+      10
+    ],
+    "extent": [
+      -0.1,
+      359.1,
+      80.1,
+      -0.1
+    ],
+    "interpolation": "nearest",
+    "origin": "upper"
+  },
+  {
+    "sample": "yellow",
+    "panel": "System\nBRDF",
+    "shape": [
+      401,
+      1796
+    ],
+    "comparison_cells": 459834,
+    "vmin": 0.21264776110649108,
+    "vmax": 0.28184956282377244,
+    "xlim": [
+      0,
+      359
+    ],
+    "ylim": [
+      70,
+      10
+    ],
+    "extent": [
+      -0.1,
+      359.1,
+      80.1,
+      -0.1
+    ],
+    "interpolation": "nearest",
+    "origin": "upper"
+  },
+  {
+    "sample": "yellow",
+    "panel": "Reference\nBRDF",
+    "shape": [
+      401,
+      1796
+    ],
+    "comparison_cells": 459834,
+    "vmin": 0.21264776110649108,
+    "vmax": 0.28184956282377244,
+    "xlim": [
+      0,
+      359
+    ],
+    "ylim": [
+      70,
+      10
+    ],
+    "extent": [
+      -0.1,
+      359.1,
+      80.1,
+      -0.1
+    ],
+    "interpolation": "nearest",
+    "origin": "upper"
+  },
+  {
+    "sample": "yellow",
+    "panel": "System\n\u2212 reference",
+    "shape": [
+      401,
+      1796
+    ],
+    "comparison_cells": 459834,
+    "vmin": -0.005769315830891272,
+    "vmax": 0.005769315830891272,
+    "xlim": [
+      0,
+      359
+    ],
+    "ylim": [
+      70,
+      10
+    ],
+    "extent": [
+      -0.1,
+      359.1,
+      80.1,
+      -0.1
+    ],
+    "interpolation": "nearest",
+    "origin": "upper"
+  },
+  {
+    "sample": "blue",
+    "panel": "System\nBRDF",
+    "shape": [
+      401,
+      1796
+    ],
+    "comparison_cells": 459834,
+    "vmin": 0.06520793095231056,
+    "vmax": 0.09998414650559426,
+    "xlim": [
+      0,
+      359
+    ],
+    "ylim": [
+      70,
+      10
+    ],
+    "extent": [
+      -0.1,
+      359.1,
+      80.1,
+      -0.1
+    ],
+    "interpolation": "nearest",
+    "origin": "upper"
+  },
+  {
+    "sample": "blue",
+    "panel": "Reference\nBRDF",
+    "shape": [
+      401,
+      1796
+    ],
+    "comparison_cells": 459834,
+    "vmin": 0.06520793095231056,
+    "vmax": 0.09998414650559426,
+    "xlim": [
+      0,
+      359
+    ],
+    "ylim": [
+      70,
+      10
+    ],
+    "extent": [
+      -0.1,
+      359.1,
+      80.1,
+      -0.1
+    ],
+    "interpolation": "nearest",
+    "origin": "upper"
+  },
+  {
+    "sample": "blue",
+    "panel": "System\n\u2212 reference",
+    "shape": [
+      401,
+      1796
+    ],
+    "comparison_cells": 459834,
+    "vmin": -0.006425585255989677,
+    "vmax": 0.006425585255989677,
+    "xlim": [
+      0,
+      359
+    ],
+    "ylim": [
+      70,
+      10
+    ],
+    "extent": [
+      -0.1,
+      359.1,
+      80.1,
+      -0.1
+    ],
+    "interpolation": "nearest",
+    "origin": "upper"
+  }
+]

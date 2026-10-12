@@ -1,0 +1,72 @@
+[
+  {
+    "case_id": "red_550",
+    "series": "NEW_D1",
+    "path": "H:\\BRDF2\\\u8bba\u6587\\\u56de\u590d\\Reviewer4_integral_validation\\batch_integral_recompute\\runs\\zero_incidence_v1_2\\maps\\red_550.npz",
+    "sha256": "d7b26cdd58e8d2a5cee122212aeedb64ecaf394927d424312eebbf026a6c7a93",
+    "reconstruction_field": "Bprocessed",
+    "reference_field": "G",
+    "comparison_mask_field": "D1",
+    "difference_definition": "Bprocessed-G",
+    "shape": [
+      401,
+      1796
+    ],
+    "dtype": "float64"
+  },
+  {
+    "case_id": "green_550",
+    "series": "NEW_D1",
+    "path": "H:\\BRDF2\\\u8bba\u6587\\\u56de\u590d\\Reviewer4_integral_validation\\batch_integral_recompute\\runs\\zero_incidence_v1_2\\maps\\green_550.npz",
+    "sha256": "8d23c7a98476173e7aff469543da94e2e6df343b34fffddd565a59d1f4ef9de8",
+    "reconstruction_field": "Bprocessed",
+    "reference_field": "G",
+    "comparison_mask_field": "D1",
+    "difference_definition": "Bprocessed-G",
+    "shape": [
+      401,
+      1796
+    ],
+    "dtype": "float64"
+  },
+  {
+    "case_id": "yellow_550",
+    "series": "NEW_D1",
+    "path": "H:\\BRDF2\\\u8bba\u6587\\\u56de\u590d\\Reviewer4_integral_validation\\batch_integral_recompute\\runs\\zero_incidence_v1_2\\maps\\yellow_550.npz",
+    "sha256": "620eddaf91abe145d3478132c0355683a46978f1711acaacd4d3eb47b3902b99",
+    "reconstruction_field": "Bprocessed",
+    "reference_field": "G",
+    "comparison_mask_field": "D1",
+    "difference_definition": "Bprocessed-G",
+    "shape": [
+      401,
+      1796
+    ],
+    "dtype": "float64"
+  },
+  {
+    "case_id": "blue_550",
+    "series": "NEW_D1",
+    "path": "H:\\BRDF2\\\u8bba\u6587\\\u56de\u590d\\Reviewer4_integral_validation\\batch_integral_recompute\\runs\\zero_incidence_v1_2\\maps\\blue_550.npz",
+    "sha256": "bb862a4d2cdd90738eabe509e29fbb952d7de582872a96bd630a5d9b2c961cfd",
+    "reconstruction_field": "Bprocessed",
+    "reference_field": "G",
+    "comparison_mask_field": "D1",
+    "difference_definition": "Bprocessed-G",
+    "shape": [
+      401,
+      1796
+    ],
+    "dtype": "float64"
+  },
+  {
+    "path": "H:\\BRDF2\\\u8bba\u6587\\\u56de\u590d\\Reviewer4_integral_validation\\batch_integral_recompute\\runs\\zero_incidence_v1_2\\integrals_64cases.csv",
+    "sha256": "6b6b3bef79100068086701ff876d9457872b4eedc8279424558f435680dac167",
+    "series": "NEW_D1"
+  },
+  {
+    "path": "H:\\BRDF2\\\u8bba\u6587\\\u56de\u590d\\Reviewer4_integral_validation\\batch_integral_recompute\\runs\\zero_incidence_v1_2\\aggregate_summary.csv",
+    "sha256": "709a877327cd1893d3339ffccc382d9643eb38a0884da9589231aa3990efc5fc",
+    "series": "NEW_D1"
+  }
+]

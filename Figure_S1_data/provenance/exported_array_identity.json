@@ -1,0 +1,38 @@
+[
+  {
+    "case_id": "red_550",
+    "comparison_cells": 459834,
+    "full_grid_cells": 720196,
+    "all_NPZ_fields_dtype_and_values_exact": true,
+    "all_CSV_cells_roundtrip_exact": true,
+    "NPZ_sha256": "095e62308e564d48678598c923b35cbfcbe611c249499477ff3802cdbe30ecd6",
+    "CSV_sha256": "8e5a3b26ecdc6e55e7f7e070565577084cc48cbb9c4a3fa0439ddd7b66308c3e"
+  },
+  {
+    "case_id": "green_550",
+    "comparison_cells": 459834,
+    "full_grid_cells": 720196,
+    "all_NPZ_fields_dtype_and_values_exact": true,
+    "all_CSV_cells_roundtrip_exact": true,
+    "NPZ_sha256": "324be23ef8ca788f78b532a5451b7d743e153e62ccafdaeb2e2615e700461a10",
+    "CSV_sha256": "f0f2c3df333c6a95290b380e2b25ea07f53afe2764c4bf291194862c659ed353"
+  },
+  {
+    "case_id": "yellow_550",
+    "comparison_cells": 459834,
+    "full_grid_cells": 720196,
+    "all_NPZ_fields_dtype_and_values_exact": true,
+    "all_CSV_cells_roundtrip_exact": true,
+    "NPZ_sha256": "d9a37365242fc6b43ca2f4ee7985f0639318be36e2e6448e6c82077f75966a33",
+    "CSV_sha256": "fd805c105b6c19aa625eac9a8187af430cdd501636270fff48ee55afa2fa3116"
+  },
+  {
+    "case_id": "blue_550",
+    "comparison_cells": 459834,
+    "full_grid_cells": 720196,
+    "all_NPZ_fields_dtype_and_values_exact": true,
+    "all_CSV_cells_roundtrip_exact": true,
+    "NPZ_sha256": "04a5ee7902e9f7144fce282181193d8642d0ab1124b891b0c97ddce0af2e292f",
+    "CSV_sha256": "a5fefcafb314f0ec881e5f29253a723def52d5ae633d42034aa137229703bb65"
+  }
+]
